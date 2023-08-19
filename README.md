@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shencaijun97
+- 👀 I’m interested in Full-stack developer in training, proficient in Express.js. 
+- 🌱 I’m currently learning Eager to create efficient, scalable web solutions.
